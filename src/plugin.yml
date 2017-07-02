@@ -1,0 +1,15 @@
+name: CreeperCatcher
+version: 1.0.0
+main: me.bscal.creepercatcher.CreeperCatcher
+description: Creeper egg catcher with recipe
+author: bscal
+commands:
+  creepercatcher:
+    usage: /<command>
+    aliases: cc
+    description: Basic command
+permissions:
+  cc.admin:
+    default: op
+  cc.user:
+    default: op

@@ -1,0 +1,13 @@
+Catch_Egg:
+  #Lore on egg
+  Lore:
+    - 'Shoot this at a creeper to'
+    - 'capture them in an egg.'
+    - ' '
+    - 'It is advised not to spam them!'
+  #Chances of success. Use only numbers
+  Chance: 65
+#
+#
+#Do not mess with this
+Players:
